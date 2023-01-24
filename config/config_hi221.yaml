@@ -1,0 +1,5 @@
+hi221_imu_node:
+  ros__parameters:
+    port: "/dev/ttyUSB0"
+    baudrate: 921600
+    publish_magnetometer: false
